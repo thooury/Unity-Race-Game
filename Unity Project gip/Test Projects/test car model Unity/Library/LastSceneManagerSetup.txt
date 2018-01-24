@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Car_Low/Tocus/Car_Tocus.unity
+  isLoaded: 1
+  isActive: 1

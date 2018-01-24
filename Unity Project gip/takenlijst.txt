@@ -1,0 +1,17 @@
+taken:
+
+Lenny:
+- boosters
+- guns, explosions
+- (water)
+- modelling + coding
+
+
+Joren:
+- UI 
+- Game Manager
+
+
+Thibaud:
+-texturing
+-lvl design
